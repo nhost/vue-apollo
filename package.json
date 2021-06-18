@@ -1,0 +1,26 @@
+{
+  "name": "nhost-vue-apollo",
+  "version": "1.0.3",
+  "description": "Enables use of Nhost's graphql setup with Vue.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist"
+  ],
+  "author": "Subhajit Das",
+  "license": "MIT",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "@apollo/client": "^3.3.20",
+    "graphql": "^15.5.0",
+    "react": "^17.0.2",
+    "subscriptions-transport-ws": "^0.9.19"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.3",
+    "@types/react": "^17.0.11",
+    "typescript": "^4.3.4"
+  }
+}
