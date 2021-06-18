@@ -4,7 +4,7 @@
   "description": "Enables use of Nhost's graphql setup with Vue.",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "files": [
     "dist"
