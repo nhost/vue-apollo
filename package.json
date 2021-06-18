@@ -1,6 +1,6 @@
 {
   "name": "nhost-vue-apollo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Enables use of Nhost's graphql setup with Vue.",
   "main": "dist/index.js",
   "scripts": {
