@@ -13,7 +13,7 @@ We will use the Composition Api to set up Apollo in Vue 3.
 #### Dependencies ####
 
 ```bash
-npm install @vue/apollo-composable
+npm install --force @vue/apollo-composable
 npm install graphql-tag
 ```
 
@@ -41,6 +41,8 @@ createApp({
 ```
 
 Now, you can use Apollo throughout your app according to the [Vue-Apollo Composition API](https://v4.apollo.vuejs.org/guide-composable/).
+
+Also, check out the [Vue.js v3 example app](https://google.com).
 
 ### Vue.js v2
 
