@@ -21,7 +21,7 @@ npm install graphql-tag
 
 In main.js, set up your Vue app as follows:
 
-```vue
+```js
 import { createApp, provide, h } from 'vue'
 import { DefaultApolloClient } from '@vue/apollo-composable'
 import gql from "graphql-tag";
@@ -57,7 +57,7 @@ npm install graphql-tag
 
 In main.js, set up your Vue app as follows:
 
-```vue
+```js
 import Vue from 'vue'
 import App from './App.vue'
 import { generateNhostApolloClient } from "nhost-vue-apollo"
